@@ -40,7 +40,7 @@ export default {
               { title: 'Unit 3 - CONTROL FLOW, FUNCTIONS, STRINGS', pdf: 'https://drive.google.com/file/d/1HzQx9oH207xCMRcDRSTO0Niu1WybQBBe/view?usp=sharing' },
               { title: 'Unit 4 - LISTS, TUPLES, DICTIONARIES', pdf: 'https://drive.google.com/file/d/10FtBJyLdyCMxioyKYWuow1DUe5ix01uS/view?usp=sharing' },
               { title: 'Unit 5 - FILES, MODULES, PACKAGES', pdf: 'https://drive.google.com/file/d/1gpJWvKQSWIPFMnaI-i9k8-C2VJqkC53n/view?usp=sharing' },
-              { title: 'PSPP QB', pdf: 'https://docs.google.com/document/d/1zPpvWRQJCkWY3SWILEys90cNReKz6gWdzYdn1AiMq4Q/edit?usp=sharing' },
+              { title: 'PSPP QB', pdf: 'https://drive.google.com/file/d/1a-zOf-BiVNXKCirI18SyD8B9smbtibIH/view?usp=sharing' },
             ]
           },
           {
