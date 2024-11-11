@@ -62,7 +62,7 @@ export default {
             title: 'CCS335 - CLOUD COMPUTING & Lab',
             units: [
               { title: 'Cloud Computing - Full Notes', pdf: 'https://docs.google.com/document/d/1HQn4nlyaxlbtHQkNZDdZYbBnnhKCi-x4/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true' },
-              { title: 'Cloud Computing - QB', pdf: 'https://docs.google.com/document/d/1iRDNGX_71f2ucNA5oQ3YEHrObo4UMx6U/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true' },
+              { title: 'Cloud Computing - QB', pdf: 'https://docs.google.com/document/d/1uu-cY5-ZGA1J5xvnftzhYF4b3HDEGpSp/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true'},
               { title: 'Cloud Computing - Lab Manual', pdf: 'https://drive.google.com/file/d/1C7O-XbjlmO6cc3s86dRSAXyat-fPi-Ua/view?usp=sharing' },
             ]
           }
