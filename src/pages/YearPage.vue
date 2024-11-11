@@ -35,18 +35,18 @@ export default {
           {
             title: 'GE3151 - Problem Solving and Python Programming',
             units: [
-              { title: 'Unit 1 - COMPUTATIONAL THINKING AND PROBLEM SOLVING', pdf: 'src/assets/docs/pspp/Unit_1.pdf' },
-              { title: 'Unit 2 - DATA TYPES, EXPRESSIONS, STATEMENTS', pdf: 'src/assets/docs/pspp/Unit_2.pdf' },
-              { title: 'Unit 3 - CONTROL FLOW, FUNCTIONS, STRINGS', pdf: 'src/assets/docs/pspp/Unit_3.pdf' },
-              { title: 'Unit 4 - LISTS, TUPLES, DICTIONARIES', pdf: 'src/assets/docs/pspp/Unit_4.pdf' },
-              { title: 'Unit 5 - FILES, MODULES, PACKAGES', pdf: 'src/assets/docs/pspp/Unit_5.pdf' },
-              { title: 'PSPP QB', pdf: 'src/assets/docs/pspp/PSPP_QB.pdf' },
+              { title: 'Unit 1 - COMPUTATIONAL THINKING AND PROBLEM SOLVING', pdf: 'https://drive.google.com/file/d/1Nt4z2bcAW31pAgLA2Tu7th9ruhz9IhMi/view?usp=sharing' },
+              { title: 'Unit 2 - DATA TYPES, EXPRESSIONS, STATEMENTS', pdf: 'https://drive.google.com/file/d/1slbTHGec9122CD3MLCX8wFlIkx5ftPa8/view?usp=sharing' },
+              { title: 'Unit 3 - CONTROL FLOW, FUNCTIONS, STRINGS', pdf: 'https://drive.google.com/file/d/1HzQx9oH207xCMRcDRSTO0Niu1WybQBBe/view?usp=sharing' },
+              { title: 'Unit 4 - LISTS, TUPLES, DICTIONARIES', pdf: 'https://drive.google.com/file/d/10FtBJyLdyCMxioyKYWuow1DUe5ix01uS/view?usp=sharing' },
+              { title: 'Unit 5 - FILES, MODULES, PACKAGES', pdf: 'https://drive.google.com/file/d/1gpJWvKQSWIPFMnaI-i9k8-C2VJqkC53n/view?usp=sharing' },
+              { title: 'PSPP QB', pdf: 'https://docs.google.com/document/d/1zPpvWRQJCkWY3SWILEys90cNReKz6gWdzYdn1AiMq4Q/edit?usp=sharing' },
             ]
           },
           {
             title: 'GE3171 - Problem Solving and Python Programming Laboratory',
             units: [
-              { title: 'LAB', pdf: 'src/assets/docs/pspp/PSPP lab manual.pdf' },
+              { title: 'LAB', pdf: 'https://docs.google.com/document/d/1BdbAPaVBjne_ISPnl0pCdTmPNxHV8_4m/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true' },
             ]
           }
         ],
@@ -54,16 +54,16 @@ export default {
           {
             title: 'CC3551  - DISTRIBUTED COMPUTING',
             units: [
-              { title: 'Distributed Computing - Full Notes', pdf: 'src/assets/docs/DC/DC FULL NOTES.pdf' },
-              { title: 'Distributed Computing - QB', pdf: 'src/assets/docs/DC/DC QBANK.pdf' },
+              { title: 'Distributed Computing - Full Notes', pdf: 'https://docs.google.com/document/d/1laIYO5uzj2a3GTYoAdB24iUQJZGoTyJJ/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true' },
+              { title: 'Distributed Computing - QB', pdf: 'https://docs.google.com/document/d/1_b36Vck5ZiGqrb6Y6BjS0KAwUuI7lHri/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true' },
             ]
           },
           {
             title: 'CCS335 - CLOUD COMPUTING & Lab',
             units: [
-              { title: 'Cloud Computing - Full Notes', pdf: 'src/assets/docs/CC/cloud Notes.pdf' },
-              { title: 'Cloud Computing - QB', pdf: 'src/assets/docs/CC/Cloud_Computing_QBank.pdf' },
-              { title: 'Cloud Computing - Lab Manual', pdf: 'src/assets/docs/CC/lab manual.pdf' },
+              { title: 'Cloud Computing - Full Notes', pdf: 'https://docs.google.com/document/d/1HQn4nlyaxlbtHQkNZDdZYbBnnhKCi-x4/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true' },
+              { title: 'Cloud Computing - QB', pdf: 'https://docs.google.com/document/d/1iRDNGX_71f2ucNA5oQ3YEHrObo4UMx6U/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true' },
+              { title: 'Cloud Computing - Lab Manual', pdf: 'https://drive.google.com/file/d/1C7O-XbjlmO6cc3s86dRSAXyat-fPi-Ua/view?usp=sharing' },
             ]
           }
         ],

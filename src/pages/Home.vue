@@ -122,7 +122,7 @@ export default {
 
 .card {
   background-color: rgba(255, 255, 255, 0.5); /* Add a semi-transparent background color */
-  background-image: url('src/assets/images/back.jpeg'); /* Keep the default background image */
+  background-image: url('https://img.freepik.com/free-photo/one-person-typing-futuristic-glowing-computer-generated-by-ai_188544-13364.jpg?t=st=1731310365~exp=1731313965~hmac=1629feac919c8049666d5919c4163ea358772479ccf9ad0f9b514f4d8140e656&w=1380'); /* Keep the default background image */
   background-size: cover;
   background-position: center;
   width: 200px;
