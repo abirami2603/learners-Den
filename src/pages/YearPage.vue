@@ -56,6 +56,7 @@ export default {
             units: [
               { title: 'Distributed Computing - Full Notes', pdf: 'https://docs.google.com/document/d/1laIYO5uzj2a3GTYoAdB24iUQJZGoTyJJ/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true' },
               { title: 'Distributed Computing - QB', pdf: 'https://docs.google.com/document/d/1_b36Vck5ZiGqrb6Y6BjS0KAwUuI7lHri/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true' },
+              { title: 'Distributed Computing - Technical Publication', pdf: 'https://drive.google.com/file/d/1rQmJyZvs2aRo5A40M9rbgTC093_25yvf/view?usp=sharing' },
             ]
           },
           {
