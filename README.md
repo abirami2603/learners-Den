@@ -77,4 +77,4 @@ We welcome contributions! To get started:
 
 For any questions or suggestions, feel free to open an issue or reach out:
 
-- **Project Maintainer**: [Hari](https://github.com/Srihari-Prasath) & [Abi](https://github.com/abirami2603)
+- **Project Maintainer**:  [Abi](https://github.com/abirami2603)
