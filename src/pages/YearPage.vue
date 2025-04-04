@@ -66,6 +66,18 @@ export default {
               { title: 'Cloud Computing - QB', pdf: 'https://docs.google.com/document/d/1uu-cY5-ZGA1J5xvnftzhYF4b3HDEGpSp/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true'},
               { title: 'Cloud Computing - Lab Manual', pdf: 'https://drive.google.com/file/d/1C7O-XbjlmO6cc3s86dRSAXyat-fPi-Ua/view?usp=sharing' },
             ]
+          },
+          {
+            title: 'CCS332 - App Development',
+            units: [
+              { title: 'App Development Lab Manual ', pdf: 'https://docs.google.com/document/d/1wPmdBqX3GYSjigVGFGbcSaSSvGdZeNiw/edit?usp=drive_link&ouid=114099811888996957917&rtpof=true&sd=true' },
+              { title: 'App Development - Unit 1', pdf: 'https://docs.google.com/document/d/1uu-cY5-ZGA1J5xvnftzhYF4b3HDEGpSp/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true'},
+              { title: 'App Development - Unit 2', pdf: 'https://docs.google.com/document/d/1Cmbnyg_Bhh4YhS7bDJovfHmIcXM1QFV5/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true'},
+              { title: 'App Development - Unit 3', pdf: 'https://drive.google.com/file/d/14evxBMgdehplI5gMt2YkQ0iuJui9H2Pc/view?usp=sharing'},
+              { title: 'App Development - Unit 4', pdf: 'https://drive.google.com/file/d/1YhsqRUBWEP2tnao1rg4N0oNHx38_KbJO/view?usp=sharing'},
+              { title: 'App Development - Unit 5', pdf: ''},
+              { title: 'App Development - QB', pdf: 'https://drive.google.com/file/d/1Ys9QxV5rK0JnTlg8XQagnq1RX0TxWsIG/view?usp=sharing' },
+            ]
           }
         ],
         // Add more years and subjects here as needed
