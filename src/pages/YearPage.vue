@@ -75,7 +75,7 @@ export default {
               { title: 'App Development - Unit 2', pdf: 'https://docs.google.com/document/d/1Cmbnyg_Bhh4YhS7bDJovfHmIcXM1QFV5/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true'},
               { title: 'App Development - Unit 3', pdf: 'https://drive.google.com/file/d/14evxBMgdehplI5gMt2YkQ0iuJui9H2Pc/view?usp=sharing'},
               { title: 'App Development - Unit 4', pdf: 'https://drive.google.com/file/d/1YhsqRUBWEP2tnao1rg4N0oNHx38_KbJO/view?usp=sharing'},
-              { title: 'App Development - Unit 5', pdf: ''},
+              { title: 'App Development - Unit 5', pdf: 'https://drive.google.com/file/d/1hI6512CSzNciKsHx2go1PplaU_9IiD5V/view?usp=sharing'},
               { title: 'App Development - QB', pdf: 'https://drive.google.com/file/d/1Ys9QxV5rK0JnTlg8XQagnq1RX0TxWsIG/view?usp=sharing' },
             ]
           }
