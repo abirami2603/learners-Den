@@ -50,6 +50,16 @@ export default {
             ]
           }
         ],
+        2: [
+          {
+            title: 'AL3452 - Operating Systems',
+            units: [
+            { title: 'Operating Systems Lab Manual ', pdf: 'https://drive.google.com/file/d/1HOLROcfZda3nWFiv5gHbrg2wPCwMYo4H/view?usp=sharing' },
+              { title: 'Operating Systems Hand written Notes', pdf: 'https://drive.google.com/file/d/14oAarbkZhhMctC_963Cr1D1-zXgUJBo-/view?usp=sharing'},
+              { title: 'Operating Systems - QB', pdf: 'https://docs.google.com/document/d/1_Qe51I9zt7PKn2KCPRdIdiavnI0pp814/edit?usp=sharing&ouid=114099811888996957917&rtpof=true&sd=true' },
+            ]
+          },
+        ],
         3: [
           {
             title: 'CC3551  - DISTRIBUTED COMPUTING',
